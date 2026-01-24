@@ -1,0 +1,13 @@
+dbt_project_1:
+  outputs:
+    dev:
+      account: PWMFWFG-XKC68520
+      database: SNOWDBT
+      password: Yamaharx@100duke
+      role: sysadmin
+      schema: PUBLIC
+      threads: 1
+      type: snowflake
+      user: prakathesh
+      warehouse: COMPUTE_WH
+  target: dev
