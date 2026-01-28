@@ -1,7 +1,7 @@
 Welcome to your new dbt project!
 
 ### Using the starter project
-
+I integrated with Snowflake Datawarehouse
 Try running the following commands:
 - dbt run
 - dbt test
