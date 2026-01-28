@@ -2,10 +2,8 @@ Welcome to your new dbt project!
 
 ### Using the starter project
 I integrated with Snowflake Datawarehouse
-If you want to run this project in Snowflake then create a screte key and api_integration. Create a wroksheet with this screte key and api and pull the project. ensure where your saving the data and change accordingly in yml file.
-Try running the following commands:
-- dbt run
-- dbt test
+If you want to run this project in Snowflake then create a screte key and api_integration. Create a wroksheet with this screte key and api and pull the project. Ensure where your saving the data and change accordingly in yml file.
+
 
 
 ### Resources:
